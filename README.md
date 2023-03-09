@@ -1,8 +1,8 @@
 
 ???｢ぷ、プログラマーです！生まれた時から、母国語よりも先にJabaを使っていまして・・・・・・｣
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka1304&theme=react)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka1304&theme=react&langs_count=3)
+<!-- ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Taka1304&theme=react)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Taka1304&theme=react&langs_count=3) -->
 <!--
 **TakayaKatsuki/TakayaKatsuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
